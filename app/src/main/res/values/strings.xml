@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RemoteMusicControl</string>
+    <string name="TV1">please enter host ip address</string>
+    <string name="btn1">confirm</string>
+    <string name="btn_last" >lastsong</string>
+    <string name="btn_next">nextsong</string>
+    <string name="btn_up">increasevolume</string>
+    <string name="btn_down">decreasevolume</string>
+    <string name="btn_play">play</string>
+    <string name="btn_exit">exit</string>
+    <string name="exit">exit</string>
+</resources>

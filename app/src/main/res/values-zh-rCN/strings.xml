@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RemoteMusicControl</string>
+    <string name="TV1">请输入主机ip地址</string>
+    <string name="btn1">确定</string>
+    <string name="btn_last">上一首</string>
+    <string name="btn_next">下一首</string>
+    <string name="btn_up">增加音量</string>
+    <string name="btn_down">减小音量</string>
+    <string name="btn_play">播放</string>
+    <string name="btn_exit">退出</string>
+    <string name="exit">退出</string>
+</resources>
